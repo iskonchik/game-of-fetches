@@ -29,3 +29,15 @@
   background-color: #63b7af;
   border-radius: 2em;
 }
+  
+.question {
+  font-size: 15pt;
+  color: blue;
+}
+.answer {
+  font-size: 15pt;
+  color: red;
+}
+.throne{
+  background-color: grey
+}
